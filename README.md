@@ -10,7 +10,7 @@ Runs the app in the development mode.
 
 ### `npm run build`
 
-Builds the code for distribute. The electron builded files to the /dist folder, react to the /build.
+Builds the code for distribute. The electron builded files are in the /dist folder, react files in the /build.
 
 ### `npm run react-start`
 
