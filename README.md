@@ -1,29 +1,37 @@
 This is a template for creating Electron & React apps.
 
+
+Execute...
+
+### `yarn install`
+
+...to install node modules.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+### `yarn start`
 
 Runs the app in the development mode.
 
-### `npm run build`
+### `yarn build`
 
 Builds the code for distribute. The electron builded files are in the /dist folder, react files in the /build.
 
-### `npm run react-start`
+### `yarn react-start`
 
-Runs the react app in the browser, like the `npm start` in the react app.
+Runs the react app in the browser, like the `yarn start` in the react app.
 
-### `npm run react-build`
+### `yarn react-build`
 
-Builds only the react app, like the `npm run build` in the react app.
+Builds only the react app, like the `yarn build` in the react app.
 
-### `npm run react-tests`
+### `yarn react-tests`
 
-Runs the react test mode, like the `npm run tests` in the react app.
+Runs the react test mode, like the `yarn tests` in the react app.
 
-### `npm run react-eject`
+### `yarn react-eject`
 
-Like the `npm run eject` in the react app.
+Like the `yarn eject` in the react app.
